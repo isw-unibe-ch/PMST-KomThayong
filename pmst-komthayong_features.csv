@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,komthayong
+incl,inclusive,clusivity,INCL,komthayong
+pl,plural,number,PL,komthayong
+sg,singular,number,SG,komthayong
+1,first person,person,1,komthayong
+2,second person,person,2,komthayong
+3,third person,person,3,komthayong
+aff,affirmative,polarity,POS,komthayong
+neg,negative,polarity,NEG,komthayong
+fut,future,tense_aspect,FUT,komthayong
+nfut,non-future,tense_aspect,,komthayong

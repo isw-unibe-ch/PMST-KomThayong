@@ -1,0 +1,8 @@
+tag_id,tag_column_name,comment,language_id
+fusion,analysis_tag,form exhibits fusion (morphophonology) in (at least) one of the morphemes,komthayong
+variable_order,analysis_tag,form contains morphemes that can variably order,komthayong
+dialect_var,variants_tag,form is from other dialect,komthayong
+formal,variants_tag,form is used in formal contexts,komthayong
+informal,variants_tag,form is informal/colloquial,komthayong
+sociolect_var,variants_tag,form is from other sociolect,komthayong
+unspecified,variants_tag,form is not used in special contexts,komthayong
